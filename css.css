@@ -1,0 +1,11 @@
+hh-header{
+    position: relative;
+    height: 170px;
+}
+
+.hh-logo
+{
+    position: absolute;
+    right: 0px;
+    width: 400px;
+}
